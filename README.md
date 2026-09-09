@@ -44,9 +44,10 @@ App.js
 
 ## Screenshots
 
-![Login](assets/screenshots/login.png)
+![Login](user-auth-app/assets/screenshots/login.png)
 
-![Signup](assets/screenshots/signup.png)
+![Signup](user-auth-app/assets/screenshots/signup.png)
 
-![Home](assets/screenshots/home.png)
+![Home](user-auth-app/assets/screenshots/home.png)
+
 
