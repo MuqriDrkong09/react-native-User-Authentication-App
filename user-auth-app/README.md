@@ -48,3 +48,13 @@ App.js
 ![Signup](assets/screenshots/signup.png)
 
 ![Home](assets/screenshots/home.png)
+
+![Login validation errors](assets/screenshots/login-error.png)
+
+![Incorrect credentials](assets/screenshots/login-incorrect.png)
+
+![Signup missing fields](assets/screenshots/signup-missing.png)
+
+![Signup invalid email format](assets/screenshots/signup-invalid-email.png)
+
+![Signup password too short](assets/screenshots/signup-password.png)
