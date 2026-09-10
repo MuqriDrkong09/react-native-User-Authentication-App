@@ -50,14 +50,14 @@ App.js
 
 ![Home](user-auth-app/assets/screenshots/home.png)
 
-![Login validation errors](assets/screenshots/login-error.png)
+![Login validation errors](user-auth-app/assets/screenshots/login-error.png)
 
-![Incorrect credentials](assets/screenshots/login-incorrect.png)
+![Incorrect credentials](user-auth-app/assets/screenshots/login-incorrect.png)
 
-![Signup missing fields](assets/screenshots/signup-missing.png)
+![Signup missing fields](user-auth-app/assets/screenshots/signup-missing.png)
 
-![Signup invalid email format](assets/screenshots/signup-invalid-email.png)
+![Signup invalid email format](user-auth-app/assets/screenshots/signup-invalid-email.png)
 
-![Signup password too short](assets/screenshots/signup-password.png)
+![Signup password too short](user-auth-app/assets/screenshots/signup-password.png)
 
 
